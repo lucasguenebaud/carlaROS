@@ -1,2 +1,0 @@
-
--DCATKIN_WHITELIST_PACKAGES= -DBUILD_ALL=ON -DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/lgu/carlaROS/devel -DCMAKE_INSTALL_PREFIX=/opt/adcc_install -G Unix Makefiles
