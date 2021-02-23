@@ -1,0 +1,9 @@
+/opt/adcc_install/_setup_util.py
+/opt/adcc_install/env.sh
+/opt/adcc_install/setup.bash
+/opt/adcc_install/local_setup.bash
+/opt/adcc_install/setup.sh
+/opt/adcc_install/local_setup.sh
+/opt/adcc_install/setup.zsh
+/opt/adcc_install/local_setup.zsh
+/opt/adcc_install/.rosinstall
