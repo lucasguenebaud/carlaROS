@@ -33,7 +33,7 @@ def node():
     rate = rospy.Rate(10) # 10hz
     while not rospy.is_shutdown():
         pose = get_pose(gps_pos)
-        rospy.loginfo(output)
+        rospy.loginfo(pose)
         loc_output.publish(pose)
         rate.sleep()
 
